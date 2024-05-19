@@ -1,1 +1,1 @@
-java -jar C:\Users\USER\Desktop\104-crawler\selenium-server-standalone-3.9.1.jar
+java -jar C:\Users\USER\Documents\GitHub\104-jobseeker\selenium-server-standalone-3.9.1.jar
